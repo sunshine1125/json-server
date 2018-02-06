@@ -20,7 +20,7 @@ npm install json-server --save
 `"server": "json-server data.json"`
 3. 在终端输入npm server，生成以下3个api接口
  * http://localhost:3000/user
- * http:localhost:3000/content
- * http:localhost:3000/friends
+ * http://localhost:3000/content
+ * http://localhost:3000/friends
 
  
