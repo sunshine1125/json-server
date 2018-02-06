@@ -1,0 +1,7 @@
+.table {
+    width: 40%;
+    margin: 50px auto;
+}
+.table td, .table th {
+    text-align: center;
+}

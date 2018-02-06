@@ -1,0 +1,13 @@
+{
+  "user": [
+    { "id": 1, "userName": "tt", "password": "1125" }
+  ],
+  "content": [
+    { "id": 1, "des": "a girl", "liking": "singing reading and coding" }
+  ],
+  "friends": [
+    {"id": 1, "name": "tom", "age": "18" },
+    {"id": 2, "name": "tina", "age": "20" },
+    { "id": 3, "name": "hell", "age": "16" }
+  ]
+}
